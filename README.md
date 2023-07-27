@@ -6,6 +6,8 @@ https://github.com/coding-to-music/tailwind-nextjs-starter-blog
 
 From / By https://github.com/timlrx/tailwind-nextjs-starter-blog
 
+https://tailwind-nextjs-starter-blog.vercel.app/
+
 ## Environment variables:
 
 ```java
