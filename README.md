@@ -1,3 +1,29 @@
+# tailwind-nextjs-starter-blog
+
+# 🚀 This is a Next.js, Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizable. Perfect as a replacement to existing Jekyll and Hugo individual blogs. 🚀
+
+https://github.com/coding-to-music/tailwind-nextjs-starter-blog
+
+From / By https://github.com/timlrx/tailwind-nextjs-starter-blog
+
+## Environment variables:
+
+```java
+
+```
+
+## GitHub
+
+```java
+git init
+git add .
+git remote remove origin
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:coding-to-music/tailwind-nextjs-starter-blog.git
+git push -u origin main
+```
+
 ![tailwind-nextjs-banner](/public/static/images/twitter-card.png)
 
 # Tailwind Nextjs Starter Blog
