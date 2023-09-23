@@ -44,6 +44,7 @@ REVUE_API_KEY=
 EMAILOCTOPUS_API_URL=https://emailoctopus.com/api/1.6/
 EMAILOCTOPUS_API_KEY=
 EMAILOCTOPUS_LIST_ID=
+
 ```
 
 ## GitHub
